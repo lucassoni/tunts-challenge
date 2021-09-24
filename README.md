@@ -14,6 +14,7 @@ npm install
 npm start
 ```
 *the application can be run directly from console
+*you must clear the "Situation" and "Score to Final Approval" columns before testing (if they are filled)
 *application logs will show up in the console displaying the progress
 
 ## pt-br
@@ -29,4 +30,5 @@ npm install
 npm start
 ```
 *a aplicação pode ser rodada diretamente do console
+*você precisa limpar as colunas de "Situação" e "Nota para Aprovação Final" antes de rodar a aplicação (caso elas estejam preenchidas)
 *os logs da aplicação vão aparecer no console mostrando o progresso
